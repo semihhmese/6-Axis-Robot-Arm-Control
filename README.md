@@ -32,5 +32,5 @@ This project features a Python application that empowers users to control a 6-ax
 
 ## Get Started
 
-This project serves as a starting point for those looking to understand and simulate the control of 6-axis robot arms.
+This project serves as a starting point for those looking to understand and simulate the control of 6-axis robot arms.Engine stop button and X, Y, Z controls are pending and will be added soon.
 
