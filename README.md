@@ -1,32 +1,36 @@
-# 6-Axis-Robot-Arm-Control
+# 6-Axis Robot Arm Control
 
-Description:
-This project encompasses a Python application that enables user control of a 6-axis robot arm. The user interface, created using the Tkinter library, includes buttons for controlling the motors in positive or negative directions, moving to specific positions, returning to the home position, and directing the arm to predefined park positions.
+## Description
 
-Features:
+This project features a Python application that empowers users to control a 6-axis robot arm. The user interface, built using the Tkinter library, offers buttons for motor control in both positive and negative directions, movement to specific positions, returning to the home position, and directing the arm to predefined park positions.
 
-    User-friendly Tkinter GUI for ease of use.
-    Buttons for positive and negative motion for each motor.
-    "Go to Position" buttons to move to specific target positions.
-    "Home" button to return to the home position.
-    "Park" buttons for directing the arm to predefined park positions.
-    Simulating trapezoidal motion profiles with acceleration and speed control.
+### Features
 
-Technologies Used:
+- User-friendly Tkinter GUI for ease of use.
+- Buttons for positive and negative motion for each motor.
+- "Go to Position" buttons to move to specific target positions.
+- "Home" button to return to the home position.
+- "Park" buttons for directing the arm to predefined park positions.
+- Simulating trapezoidal motion profiles with acceleration and speed control.
 
-    Python programming language.
-    Tkinter library (for creating the GUI).
-    Project management and version control using GitHub.
+### Technologies Used
 
-How to Use:
+- Python programming language.
+- Tkinter library (for creating the GUI).
+- Project management and version control using GitHub.
 
-    Clone the project to your computer.
-    Run the robotcontrol.py file to start the application.
-    Control the motors and navigate to different positions through the Tkinter interface.
+## How to Use
 
-Notes:
+1. Clone the project to your computer.
+2. Run the `robotcontrol.py` file to start the application.
+3. Control the motors and navigate to different positions through the Tkinter interface.
 
-    Acceleration and speed control simulate smooth movements by mimicking trapezoidal profiles.
-    The buttons' usage and functionalities provide an intuitive control experience for users.
+## Notes
 
-This project serves as a starting point for those looking to understand and simulate the control of 6-axis robot arms. For access to source code and additional details, refer to the project's GitHub repository.
+- Acceleration and speed control simulate smooth movements by mimicking trapezoidal profiles.
+- The buttons' usage and functionalities provide an intuitive control experience for users.
+
+## Get Started
+
+This project serves as a starting point for those looking to understand and simulate the control of 6-axis robot arms.
+
